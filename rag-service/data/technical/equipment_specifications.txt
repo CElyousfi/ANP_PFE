@@ -1,0 +1,68 @@
+# Port Equipment Technical Specifications
+
+## 1. Crane Specifications
+### 1.1 Ship-to-Shore (STS) Cranes
+- Lifting capacity: 65 tons under spreader
+- Outreach: 65 meters
+- Lifting height: 42 meters above rail
+- Lifting speed: 90 meters/min with load
+- Trolley speed: 180 meters/min
+- Gantry speed: 45 meters/min
+- Power supply: 11kV/60Hz
+
+### 1.2 Rubber Tyred Gantry (RTG) Cranes
+- Lifting capacity: 40 tons under spreader
+- Lifting height: 18.5 meters (6+1 containers)
+- Span: 23.6 meters
+- Lifting speed: 30 meters/min with load
+- Trolley speed: 70 meters/min
+- Gantry speed: 130 meters/min
+- Power: Diesel-electric or electric with cable reel
+
+## 2. Handling Equipment
+### 2.1 Reach Stackers
+- Lifting capacity: 45 tons in first row
+- Stacking capability: 5 containers high
+- Engine power: 350 HP
+- Maximum speed: 25 km/h
+
+### 2.2 Terminal Tractors
+- Engine power: 260 HP
+- Maximum speed: 40 km/h
+- Turning radius: 6.3 meters
+- Coupling height: 1150 mm
+
+## 3. Maintenance Requirements
+All port equipment must be maintained according to the following schedule:
+- Daily inspections: Before each shift
+- Weekly maintenance: Lubrication and minor adjustments
+- Monthly maintenance: Comprehensive systems check
+- Quarterly maintenance: Major systems overhaul
+- Annual certification: Safety and capacity verification
+
+Maintenance records must be kept for a minimum of 5 years and be available for inspection at any time.
+
+## 4. Safety Systems
+All equipment must include the following safety features:
+- Emergency stop buttons
+- Overload warning systems
+- Anti-collision systems
+- Wind speed monitoring with automatic shutdown
+- Operator presence sensors
+- Audible movement alarms
+- Comprehensive lighting for night operations
+
+## 5. Environmental Specifications
+- Emissions standards: Euro Stage V or equivalent
+- Noise level: <82 dB at operator position
+- Energy efficiency: Smart power management systems
+- Fuel consumption monitoring
+- Biodegradable hydraulic fluids
+
+## 6. Training Requirements
+Operators must be certified after completing:
+- 40 hours theoretical training
+- 80 hours practical operation under supervision
+- Safety procedures examination
+- Equipment-specific certification
+- Annual refresher courses

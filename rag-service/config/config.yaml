@@ -1,0 +1,79 @@
+# rag-service/config/config.yaml
+# RAG Service Configuration
+
+# Server settings
+server:
+  host: "0.0.0.0"
+  port: 8001
+  reload: false
+
+# CORS settings
+cors:
+  origins: ["*"]
+  allow_credentials: true
+  methods: ["*"]
+  headers: ["*"]
+
+# Rate limiting
+rate_limiting:
+  enabled: false
+  limit: 100
+  window: 3600
+
+# Embeddings configuration
+embeddings:
+  provider: "mock"  # Use "ollama" if available, "mock" for testing
+  model_name: "mxbai-embed-large"
+  base_url: "http://localhost:11434"
+
+# LLM configuration
+llm:
+  provider: "mock"  # Use "groq" if API key available, "mock" for testing
+  model: "llama-3.1-8b-instant"
+  temperature: 0.1
+  max_tokens: 4096
+
+# Document processor settings
+document_processor:
+  chunk_size: 1000  # Increased from 500 for better context
+  chunk_overlap: 300  # Increased from 200 for better context preservation
+  data_folder: "data"
+  default_departments:
+    - "general"
+    - "commercial"
+    - "technical"
+    - "safety"
+    - "regulatory"
+
+# Vector store settings
+vector_store:
+  faiss_index_path: "faiss_index"
+  top_k_retrieval: 5
+  use_mmr: true
+
+# Document database settings
+document_database:
+  db_path: "documents.db"
+
+# Response generator settings
+response_generator:
+  max_tokens: 4096
+  temperature: 0.2  # Slightly increased for more creative responses
+  relevance_threshold: 0.3  # Lowered from 0.7 for more lenient matching
+  confidence_threshold: 0.3  # Lowered from 0.6 for more lenient matching
+  default_language: "french"
+  supported_languages:
+    - "french"
+    - "english"
+    - "arabic"
+    - "spanish"
+
+# File watcher settings
+file_watcher:
+  enabled: true
+  file_processing_delay: 5
+  recursive_watch: true
+  supported_extensions:
+    - ".pdf"
+    - ".docx"
+    - ".txt"

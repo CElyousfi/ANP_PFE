@@ -1,0 +1,97 @@
+# Port Commercial Tariffs and Procedures
+
+## Section 1: Vessel-Related Charges
+### 1.1 Port Dues
+| Vessel Size (GRT) | Rate (MAD per GRT) |
+|-------------------|-------------------|
+| 0 - 500           | 3.50              |
+| 501 - 1,000       | 4.25              |
+| 1,001 - 5,000     | 5.00              |
+| 5,001 - 10,000    | 5.75              |
+| 10,001 - 20,000   | 6.50              |
+| > 20,000          | 7.25              |
+
+Minimum charge: 1,000 MAD per call
+Special rates apply for regular service vessels with minimum 12 calls per year
+
+### 1.2 Berth Occupancy Charges
+| Duration          | Rate (MAD per meter of vessel length per hour) |
+|-------------------|--------------------------------------------|
+| First 24 hours    | 2.50                                       |
+| 24 - 48 hours     | 3.00                                       |
+| 48 - 96 hours     | 4.00                                       |
+| > 96 hours        | 5.50                                       |
+
+### 1.3 Pilotage Fees
+Compulsory for all vessels over 100 GRT
+| Vessel Size (GRT) | Rate (MAD) |
+|-------------------|------------|
+| 0 - 500           | 750        |
+| 501 - 1,000       | 1,250      |
+| 1,001 - 5,000     | 2,000      |
+| 5,001 - 10,000    | 3,000      |
+| 10,001 - 20,000   | 4,250      |
+| > 20,000          | 5,500      |
+
+### 1.4 Towage Services
+Compulsory for all vessels over 500 GRT
+| Vessel Size (GRT) | Rate per Tug (MAD per hour) |
+|-------------------|-----------------------------|
+| 0 - 1,000         | 2,000                       |
+| 1,001 - 5,000     | 3,500                       |
+| 5,001 - 15,000    | 5,000                       |
+| 15,001 - 30,000   | 7,500                       |
+| > 30,000          | 10,000                      |
+
+Minimum charge: 1 hour per tug
+
+## Section 2: Cargo-Related Charges
+### 2.1 Cargo Handling
+| Cargo Type           | Rate (MAD per ton) |
+|----------------------|-------------------|
+| General cargo        | 45                |
+| Containerized cargo  | 35                |
+| Bulk dry cargo       | 30                |
+| Liquid bulk          | 25                |
+| Ro-Ro (per vehicle)  | 200               |
+
+### 2.2 Storage Charges
+| Cargo Type     | Free Period | First Period (MAD/ton/day) | Second Period (MAD/ton/day) |
+|----------------|-------------|----------------------------|----------------------------|
+| General cargo  | 5 days      | 10 (days 6-15)             | 20 (after day 15)          |
+| Containers     | 7 days      | 150 (days 8-15)            | 300 (after day 15)         |
+| Bulk cargo     | 3 days      | 5 (days 4-10)              | 15 (after day 10)          |
+
+### 2.3 Container Handling Charges
+| Service                  | 20' Container (MAD) | 40' Container (MAD) |
+|--------------------------|---------------------|---------------------|
+| Discharge/Loading        | 750                 | 1,125               |
+| Shifting on board        | 375                 | 560                 |
+| Gate in/out              | 250                 | 375                 |
+| Reefer connection (daily)| 300                 | 450                 |
+| IMDG surcharge           | +50%                | +50%                |
+
+## Section 3: Administrative Procedures
+### 3.1 Required Documentation
+- Vessel Pre-arrival Notice (72 hours)
+- Customs Clearance Documentation
+- Cargo Manifest
+- Dangerous Goods Declaration (if applicable)
+- Crew List and Passenger List (if applicable)
+- Maritime Declaration of Health
+- International Ship Security Certificate
+
+### 3.2 Payment Terms
+- All charges must be paid in Moroccan Dirhams (MAD)
+- Payments due within 15 days of invoice date
+- 2% late payment penalty per month
+- Vessel agents must deposit sufficient funds before vessel departure
+- Bank guarantees accepted from approved agents only
+
+### 3.3 Dispute Resolution
+Any dispute regarding port charges shall be submitted in writing to the Commercial Department within 30 days of invoice date.
+
+For further information:
+Commercial Department
+Tel: +212-5XX-XXXXXX
+Email: commercial@anp.org.ma
